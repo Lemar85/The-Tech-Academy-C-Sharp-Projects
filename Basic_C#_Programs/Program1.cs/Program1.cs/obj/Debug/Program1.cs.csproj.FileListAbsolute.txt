@@ -1,0 +1,8 @@
+C:\Users\Lemar\Desktop\Basic_C#_Programs\Program1.cs\Program1.cs\obj\Debug\Program1.cs.csproj.AssemblyReference.cache
+C:\Users\Lemar\Desktop\Basic_C#_Programs\Program1.cs\Program1.cs\obj\Debug\Program1.cs.csproj.CoreCompileInputs.cache
+C:\Users\Lemar\Desktop\Basic_C#_Programs\Program1.cs\Program1.cs\bin\Debug\Program1.cs.exe.config
+C:\Users\Lemar\Desktop\Basic_C#_Programs\Program1.cs\Program1.cs\bin\Debug\Program1.cs.exe
+C:\Users\Lemar\Desktop\Basic_C#_Programs\Program1.cs\Program1.cs\bin\Debug\Program1.cs.pdb
+C:\Users\Lemar\Desktop\Basic_C#_Programs\Program1.cs\Program1.cs\obj\Debug\Program1.cs.exe
+C:\Users\Lemar\Desktop\Basic_C#_Programs\Program1.cs\Program1.cs\obj\Debug\Program1.cs.pdb
+C:\Users\Lemar\Desktop\Basic_C#_Programs\Program1.cs\Program1.cs\obj\Debug\Program1.cs.exe.config

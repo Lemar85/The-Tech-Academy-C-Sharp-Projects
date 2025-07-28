@@ -1,0 +1,8 @@
+C:\Users\Lemar\Desktop\Basic_C#_Programs\DRSubmission.cs\DRSubmission.cs\bin\Debug\DRSubmission.cs.exe.config
+C:\Users\Lemar\Desktop\Basic_C#_Programs\DRSubmission.cs\DRSubmission.cs\bin\Debug\DRSubmission.cs.exe
+C:\Users\Lemar\Desktop\Basic_C#_Programs\DRSubmission.cs\DRSubmission.cs\bin\Debug\DRSubmission.cs.pdb
+C:\Users\Lemar\Desktop\Basic_C#_Programs\DRSubmission.cs\DRSubmission.cs\obj\Debug\DRSubmission.cs.csproj.AssemblyReference.cache
+C:\Users\Lemar\Desktop\Basic_C#_Programs\DRSubmission.cs\DRSubmission.cs\obj\Debug\DRSubmission.cs.csproj.CoreCompileInputs.cache
+C:\Users\Lemar\Desktop\Basic_C#_Programs\DRSubmission.cs\DRSubmission.cs\obj\Debug\DRSubmission.cs.exe
+C:\Users\Lemar\Desktop\Basic_C#_Programs\DRSubmission.cs\DRSubmission.cs\obj\Debug\DRSubmission.cs.pdb
+C:\Users\Lemar\Desktop\Basic_C#_Programs\DRSubmission.cs\DRSubmission.cs\obj\Debug\DRSubmission.cs.exe.config

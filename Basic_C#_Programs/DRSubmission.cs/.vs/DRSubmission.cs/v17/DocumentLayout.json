@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lemar\\Desktop\\Basic_C#_Programs\\DRSubmission.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD9632A-6531-4C4D-9F22-4635ECD39C14}|DRSubmission.cs\\DRSubmission.cs.csproj|c:\\users\\lemar\\desktop\\basic_c#_programs\\drsubmission.cs\\drsubmission.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD9632A-6531-4C4D-9F22-4635ECD39C14}|DRSubmission.cs\\DRSubmission.cs.csproj|solutionrelative:drsubmission.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lemar\\Desktop\\Basic_C#_Programs\\DRSubmission.cs\\DRSubmission.cs\\Program.cs",
+              "RelativeDocumentMoniker": "DRSubmission.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\Lemar\\Desktop\\Basic_C#_Programs\\DRSubmission.cs\\DRSubmission.cs\\Program.cs",
+              "RelativeToolTip": "DRSubmission.cs\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAvwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:27:41.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
