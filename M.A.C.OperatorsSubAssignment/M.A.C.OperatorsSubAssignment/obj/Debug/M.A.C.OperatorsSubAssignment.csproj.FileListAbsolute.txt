@@ -1,0 +1,8 @@
+C:\Users\Lemar\Desktop\Basic_C#_Programs\M.A.C.OperatorsSubAssignment\M.A.C.OperatorsSubAssignment\bin\Debug\M.A.C.OperatorsSubAssignment.exe.config
+C:\Users\Lemar\Desktop\Basic_C#_Programs\M.A.C.OperatorsSubAssignment\M.A.C.OperatorsSubAssignment\bin\Debug\M.A.C.OperatorsSubAssignment.exe
+C:\Users\Lemar\Desktop\Basic_C#_Programs\M.A.C.OperatorsSubAssignment\M.A.C.OperatorsSubAssignment\bin\Debug\M.A.C.OperatorsSubAssignment.pdb
+C:\Users\Lemar\Desktop\Basic_C#_Programs\M.A.C.OperatorsSubAssignment\M.A.C.OperatorsSubAssignment\obj\Debug\M.A.C.OperatorsSubAssignment.csproj.AssemblyReference.cache
+C:\Users\Lemar\Desktop\Basic_C#_Programs\M.A.C.OperatorsSubAssignment\M.A.C.OperatorsSubAssignment\obj\Debug\M.A.C.OperatorsSubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Lemar\Desktop\Basic_C#_Programs\M.A.C.OperatorsSubAssignment\M.A.C.OperatorsSubAssignment\obj\Debug\M.A.C.OperatorsSubAssignment.exe
+C:\Users\Lemar\Desktop\Basic_C#_Programs\M.A.C.OperatorsSubAssignment\M.A.C.OperatorsSubAssignment\obj\Debug\M.A.C.OperatorsSubAssignment.pdb
+C:\Users\Lemar\Desktop\Basic_C#_Programs\M.A.C.OperatorsSubAssignment\M.A.C.OperatorsSubAssignment\obj\Debug\M.A.C.OperatorsSubAssignment.exe.config
