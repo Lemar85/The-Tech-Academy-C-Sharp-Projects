@@ -1,0 +1,7 @@
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\bin\Debug\BooleanLogicSubmissionAssignment.exe.config
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\bin\Debug\BooleanLogicSubmissionAssignment.exe
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\bin\Debug\BooleanLogicSubmissionAssignment.pdb
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.exe
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.pdb
