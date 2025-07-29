@@ -13,16 +13,20 @@ namespace BooleanLogicSubmissionAssignment
             Console.WriteLine("Do you qualify for car insurance?");
             Console.ReadLine();
             Console.WriteLine("What is your age?");
-            Console.WriteLine("Have you ever had a DUI?");
-            Console.WriteLine("How many speeding tickets do you have?");
+            int customerAge = 21;
+            Console.WriteLine(customerAge);
             Console.ReadLine();
 
-            //Boolean variables
-            int customerAge = 21;
+            Console.WriteLine("Have you ever had a DUI?");
             bool hasDUI = false;
-            int speedingTickets = 0;
+            Console.WriteLine(hasDUI);
+            Console.ReadLine();
 
-            //Boolean logic
+            Console.WriteLine("How many speeding tickets do you have?");
+            int speedingTickets = 0;
+            Console.WriteLine(speedingTickets);
+            Console.ReadLine();
+
             bool qualifiesForInsurance = (customerAge > 15 && !hasDUI && speedingTickets <= 3);
             Console.WriteLine("Customer qualifies for insurance: " + qualifiesForInsurance);
         }

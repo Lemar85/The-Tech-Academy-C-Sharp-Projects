@@ -5,3 +5,4 @@ C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BooleanLogicSu
 C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.csproj.CoreCompileInputs.cache
 C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.exe
 C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.pdb
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.exe.config
