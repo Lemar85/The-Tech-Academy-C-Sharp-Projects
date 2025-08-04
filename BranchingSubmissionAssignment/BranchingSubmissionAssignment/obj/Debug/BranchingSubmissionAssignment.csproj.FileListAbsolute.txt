@@ -1,0 +1,7 @@
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingSubmissionAssignment\BranchingSubmissionAssignment\bin\Debug\BranchingSubmissionAssignment.exe.config
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingSubmissionAssignment\BranchingSubmissionAssignment\bin\Debug\BranchingSubmissionAssignment.exe
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingSubmissionAssignment\BranchingSubmissionAssignment\bin\Debug\BranchingSubmissionAssignment.pdb
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\BranchingSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\BranchingSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\BranchingSubmissionAssignment.exe
+C:\Users\Lemar\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\BranchingSubmissionAssignment.pdb
