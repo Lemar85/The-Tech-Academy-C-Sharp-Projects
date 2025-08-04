@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2057AA91-6DBC-4D5D-B508-DD9CBFBD3711}</ProjectGuid>
+    <ProjectGuid>{EE8C7A1E-DFB6-4530-940A-3236976B8D5E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>BooleanLogicSubmissionAssignment</RootNamespace>
     <AssemblyName>BooleanLogicSubmissionAssignment</AssemblyName>

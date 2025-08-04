@@ -10,24 +10,22 @@ namespace BooleanLogicSubmissionAssignment
     {
         static void Main()
         {
-            Console.WriteLine("Do you qualify for car insurance?");
-            Console.ReadLine();
             Console.WriteLine("What is your age?");
-            int customerAge = 21;
-            Console.WriteLine(customerAge);
+            string customerAge = Console.ReadLine();
+            int custAge = Convert.ToInt32(customerAge);
             Console.ReadLine();
 
-            Console.WriteLine("Have you ever had a DUI?");
-            bool hasDUI = false;
-            Console.WriteLine(hasDUI);
+            Console.WriteLine("Have you ever had a DUI? (true/false)");
+            string customerDUI = Console.ReadLine();
+            bool custDUI = Convert.ToBoolean(customerDUI);
             Console.ReadLine();
 
             Console.WriteLine("How many speeding tickets do you have?");
-            int speedingTickets = 0;
-            Console.WriteLine(speedingTickets);
+            string customerTickets = Console.ReadLine();
+            int custTickets = Convert.ToInt32(customerTickets);
             Console.ReadLine();
 
-            bool qualifiesForInsurance = (customerAge > 15 && !hasDUI && speedingTickets <= 3);
+            bool qualifiesForInsurance = (custAge > 15 && !custDUI && custTickets <= 3);
             Console.WriteLine("Customer qualifies for insurance: " + qualifiesForInsurance);
         }
     }
