@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5811678C-B2CA-4195-B55F-BCEF84E02A96}</ProjectGuid>
+    <ProjectGuid>{1BDEA8CA-9712-4099-8FE0-DCA7CBB2760C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>M.A.C.OperatorsSubAssignment</RootNamespace>
     <AssemblyName>M.A.C.OperatorsSubAssignment</AssemblyName>

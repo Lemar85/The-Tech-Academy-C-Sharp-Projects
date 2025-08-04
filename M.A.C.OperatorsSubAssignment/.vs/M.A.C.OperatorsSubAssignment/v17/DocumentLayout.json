@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lemar\\Desktop\\Basic_C#_Programs\\M.A.C.OperatorsSubAssignment\\",
+  "WorkspaceRootPath": "C:\\Users\\Lemar\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\M.A.C.OperatorsSubAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5811678C-B2CA-4195-B55F-BCEF84E02A96}|M.A.C.OperatorsSubAssignment\\M.A.C.OperatorsSubAssignment.csproj|c:\\users\\lemar\\desktop\\basic_c#_programs\\m.a.c.operatorssubassignment\\m.a.c.operatorssubassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5811678C-B2CA-4195-B55F-BCEF84E02A96}|M.A.C.OperatorsSubAssignment\\M.A.C.OperatorsSubAssignment.csproj|solutionrelative:m.a.c.operatorssubassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BDEA8CA-9712-4099-8FE0-DCA7CBB2760C}|M.A.C.OperatorsSubAssignment\\M.A.C.OperatorsSubAssignment.csproj|c:\\users\\lemar\\documents\\github\\the-tech-academy-c-sharp-projects\\m.a.c.operatorssubassignment\\m.a.c.operatorssubassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDEA8CA-9712-4099-8FE0-DCA7CBB2760C}|M.A.C.OperatorsSubAssignment\\M.A.C.OperatorsSubAssignment.csproj|solutionrelative:m.a.c.operatorssubassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lemar\\Desktop\\Basic_C#_Programs\\M.A.C.OperatorsSubAssignment\\M.A.C.OperatorsSubAssignment\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lemar\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\M.A.C.OperatorsSubAssignment\\M.A.C.OperatorsSubAssignment\\Program.cs",
               "RelativeDocumentMoniker": "M.A.C.OperatorsSubAssignment\\Program.cs",
-              "ToolTip": "C:\\Users\\Lemar\\Desktop\\Basic_C#_Programs\\M.A.C.OperatorsSubAssignment\\M.A.C.OperatorsSubAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Lemar\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-Projects\\M.A.C.OperatorsSubAssignment\\M.A.C.OperatorsSubAssignment\\Program.cs",
               "RelativeToolTip": "M.A.C.OperatorsSubAssignment\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAswC0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T19:05:51.903Z",
+              "WhenOpened": "2025-08-04T04:26:33.836Z",
               "EditorCaption": ""
             }
           ]
